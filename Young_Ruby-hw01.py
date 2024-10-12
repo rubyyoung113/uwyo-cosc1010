@@ -4,7 +4,7 @@
 # HW 01
 # Lab Section: 16
 # Sources, people worked with, help given to: Eugenia Ceinos 
-# Homework Question:
+# Homework Question: below 
 
 
 # You are given a list of dictionaries where each dictionary represents a student and their scores
