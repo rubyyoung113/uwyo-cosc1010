@@ -37,4 +37,5 @@ for person in students:
 
 for key, value in dictionary.items():
     if value > 80:
-        print(key)
+        print(f"{key} has an average score greater than 80.")
+        
